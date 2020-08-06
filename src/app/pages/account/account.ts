@@ -4,7 +4,7 @@ import {Router} from '@angular/router';
 import {AlertController} from '@ionic/angular';
 
 import {UserData} from '../../providers/user-data';
-import {KeycloakAuthService} from '../../../../dist/cmotion/ionic-keycloak-auth';
+import {KeycloakAuthService} from '@cmotion/ionic-keycloak-auth';
 
 
 @Component({

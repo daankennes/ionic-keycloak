@@ -11,7 +11,7 @@ import {AppRoutingModule} from './app-routing.module';
 import {AppComponent} from './app.component';
 import {ServiceWorkerModule} from '@angular/service-worker';
 import {environment} from '../environments/environment';
-import {IonicKeycloakAuthModule} from '../../dist/cmotion/ionic-keycloak-auth';
+import {IonicKeycloakAuthModule} from '@cmotion/ionic-keycloak-auth';
 
 
 @NgModule({
